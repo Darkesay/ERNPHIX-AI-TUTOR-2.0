@@ -18,3 +18,6 @@ httpx
 pytest
 black
 ruff
+python-jose
+passlib
+email-validator
